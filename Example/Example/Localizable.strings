@@ -1,0 +1,10 @@
+"SIGNUP_TITLE" = "Sign Up";
+"SIGNUP_USERNAME" = "Username";
+"SIGNUP_PASSWORD" = "Password";
+"SIGNUP_PASSWORD_CONFIRMATION" = "Confirm Password";
+"SIGNUP_PASSWORD_FOOTER" = "Minimum length of 8 characters";
+"SIGNUP_SIGN_UP_BUTTON" = "Sign Up";
+
+"SIGNUP_ERROR_USERNAME_PRESENCE" = "Type your username";
+"SIGNUP_ERROR_PASSWORD_PRESENCE" = "Type your password";
+"SIGNUP_ERROR_PASSWORD_CONFIRMATION" = "Typed passwords does not match";

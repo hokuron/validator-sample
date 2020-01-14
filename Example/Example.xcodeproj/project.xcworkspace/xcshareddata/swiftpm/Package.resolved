@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Validator",
+        "repositoryURL": "https://github.com/hokuron/validator-sample.git",
+        "state": {
+          "branch": "master",
+          "revision": "d15f5a484c2a98d3b3e3b9607801df29127cb9ee",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
